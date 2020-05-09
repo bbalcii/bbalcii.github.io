@@ -5,6 +5,6 @@ categories:
 date: 2020-05-09 00:00:00
 ---
 
-![](/images/fulls/04.jpg){: width="740" height="434"}
+![](/images/fulls/02.jpg){: width="740" height="434"}
 
 &nbsp;
