@@ -37,6 +37,10 @@ webmaster_verifications:
   alexa: # 1234
   yandex: # 1234
 
+  twitter_username: 
+  linkedin_username: busebalci
+
+
 # -----------
 # CloudCannon
 
