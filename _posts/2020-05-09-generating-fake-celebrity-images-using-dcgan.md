@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generating fake dog images using DCGAN
+title: Generating Fake Celebrity Images using DCGAN
 categories:
 date: 2020-05-09 00:00:00
 ---
