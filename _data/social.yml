@@ -10,3 +10,7 @@
   link: 'https://www.linkedin.com/in/busebalci'
   social_icon: LinkedIn
   new_window: true
+- name: Github
+  link: 'https://github.com/bbalcii'
+  social_icon:
+  new_window: true
