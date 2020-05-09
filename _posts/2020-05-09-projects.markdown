@@ -1,4 +1,7 @@
 ---
 layout: post
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Hello
+
+![](/images/fulls/03.jpg){: .fit.image}
+
+Sharing some of my work at Ms. Management Analytics
