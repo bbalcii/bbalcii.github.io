@@ -2,10 +2,6 @@
   link: 'https://www.facebook.com/busebalci526'
   social_icon: Facebook
   new_window: true
-- name: RSS
-  link: /feed.xml
-  social_icon: RSS
-  new_window: true
 - name: Linkedin
   link: 'https://www.linkedin.com/in/busebalci'
   social_icon: LinkedIn
@@ -13,4 +9,8 @@
 - name: Github
   link: 'https://github.com/bbalcii'
   social_icon:
+  new_window: true
+- name: Instagram
+  link: 'https://www.instagram.com/busebalcii'
+  social_icon: Instagram
   new_window: true
